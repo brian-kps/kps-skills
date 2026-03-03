@@ -16,7 +16,8 @@
       "strict": false,
       "skills": [
         "./skills/self-improving-agent",
-        "./skills/paper"
+        "./skills/paper",
+        "./skills/app-store-review"
       ]
     }
   ]
