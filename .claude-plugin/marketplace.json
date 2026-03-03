@@ -11,14 +11,11 @@
   "plugins": [
     {
       "name": "all-skills",
-      "description": "Collection of document processing suite including Excel, Word, PowerPoint, and PDF capabilities",
+      "description": "Collection of skills for kps.",
       "source": "./",
       "strict": false,
       "skills": [
-        "./skills/xlsx",
-        "./skills/docx",
-        "./skills/pptx",
-        "./skills/pdf"
+        "./skills/self-improving-agent"
       ]
     }
   ]
