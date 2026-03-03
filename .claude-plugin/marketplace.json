@@ -1,0 +1,25 @@
+{
+  "name": "kps-skills",
+  "owner": {
+    "name": "Brian Kennedy",
+    "email": "brian@keypulsesystems.com"
+  },
+  "metadata": {
+    "description": "Key Pulse Systems skills",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "all-skills",
+      "description": "Collection of document processing suite including Excel, Word, PowerPoint, and PDF capabilities",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/xlsx",
+        "./skills/docx",
+        "./skills/pptx",
+        "./skills/pdf"
+      ]
+    }
+  ]
+}
