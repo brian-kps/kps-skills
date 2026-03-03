@@ -15,7 +15,8 @@
       "source": "./",
       "strict": false,
       "skills": [
-        "./skills/self-improving-agent"
+        "./skills/self-improving-agent",
+        "./skills/paper"
       ]
     }
   ]
