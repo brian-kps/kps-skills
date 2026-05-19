@@ -17,7 +17,15 @@
       "skills": [
         "./skills/self-improving-agent",
         "./skills/paper",
-        "./skills/app-store-review"
+        "./skills/app-store-review",
+        "./skills/clavro-react-bff",
+        "./skills/clavro-setup",
+        "./skills/hopinsports-screen-creator",
+        "./skills/ktor-server-patterns",
+        "./skills/linear-workflow",
+        "./skills/gradle-kmp-build",
+        "./skills/kotlin-js-typescript",
+        "./skills/android-compose-testing"
       ]
     }
   ]
